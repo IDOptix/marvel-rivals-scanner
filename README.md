@@ -55,9 +55,9 @@ The software:
 - **Does not automate gameplay**
 - **Does not interfere with matchmaking or game systems**
 
-All analysis is based on screenshots, public information, user-provided data, and statistical pattern detection.
+All analysis is based on **screenshots**, public information, user-provided data, and statistical pattern detection.
 
-Predictions are not guaranteed and may be inaccurate.
+Private Predictions are not guaranteed and may be inaccurate.
 
 ## Support
 
