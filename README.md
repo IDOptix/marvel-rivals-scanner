@@ -36,6 +36,8 @@ Code signing is planned for a future release.
 ## Upgrade
 
 Click the **FREE** chip in the top-right of the app, then choose **Upgrade**.
+<img width="1471" height="914" alt="image" src="https://github.com/user-attachments/assets/64b49e77-12e5-46a9-b230-847704d9e986" />
+
 
 After subscribing, unlock Pro using the email used at checkout or by pasting the licence key from your confirmation page.
 
