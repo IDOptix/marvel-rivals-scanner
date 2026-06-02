@@ -25,7 +25,7 @@ Code signing is planned for a future release.
 - 5 manual scans per day
 - Basic public-profile scan
 
-### Pro — £4.99/month
+### Pro (£4.99/month)
 - Unlimited scans
 - One-trick detection
 - Counter recommendations
