@@ -4,7 +4,7 @@ External scouting and analytics software for Marvel Rivals players and streamers
 
 ## Install
 
-Run `Marvel Rivals Scanner Setup 2.2.0.exe` and follow the installation prompts.
+**[⬇ Download the latest installer](https://github.com/IDOptix/marvel-rivals-scanner/releases/latest)** — get `Marvel Rivals Scanner Setup 2.2.2.exe`, then run it and follow the prompts.
 
 Windows may show a SmartScreen warning because the installer is not yet code-signed.  
 Click **More info → Run anyway** if you trust the source.
