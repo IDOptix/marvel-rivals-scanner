@@ -2,7 +2,17 @@
 
 External scouting and analytics software for Marvel Rivals players and streamers.
 
-Marvel Rivals Scanner helps you scan players, analyse loading-screen screenshots, detect likely one-tricks, estimate player patterns, and prepare counter-pick decisions before the match starts.
+Marvel Rivals Scanner helps you scan players, analyse loading-screen and scoreboard screenshots, detect likely one-tricks, estimate player patterns, check rank information, predict win chances, and prepare counter-pick decisions before or during a match.
+
+---
+
+## Latest Version
+
+**Marvel Rivals Scanner — Update 2.2.8**
+
+This update adds win prediction, current rank, peak rank, estimated Elo, scoreboard screenshot support, and a smoother capture workflow.
+
+You no longer need to tab out of Marvel Rivals or manually click the scanner before using your hotkey.
 
 ---
 
@@ -12,7 +22,7 @@ Marvel Rivals Scanner helps you scan players, analyse loading-screen screenshots
 
 Download:
 
-`Marvel Rivals Scanner Setup 2.2.3.exe`
+`Marvel Rivals Scanner Setup 2.2.8.exe`
 
 Then run the installer and follow the prompts.
 
@@ -30,11 +40,11 @@ Code signing is planned for a future release.
 
 ## Important Setup Step
 
-For capture to work properly, **open Marvel Rivals first, then open Marvel Rivals Scanner**.
+For the best capture reliability, **open Marvel Rivals first, then open Marvel Rivals Scanner**.
 
 If the scanner is already open before the game, the capture system may not detect the game correctly.
 
-If capture is not working, I recommend fully closing the scanner from the Windows hidden icons menu, then reopening it after Marvel Rivals is already running.
+If capture is not working, fully close the scanner from the Windows hidden icons menu, then reopen it after Marvel Rivals is already running.
 
 To close it properly:
 
@@ -48,37 +58,89 @@ To close it properly:
 
 ## Recommended Capture Workflow
 
-Marvel Rivals Scanner is designed to work during the loading screen.
+Marvel Rivals Scanner now supports scanning from both:
 
-Best workflow:
+- Loading screens
+- Scoreboards
 
-1. Open **Marvel Rivals** first.
+Recommended workflow:
+
+1. Open **Marvel Rivals**.
 2. Open **Marvel Rivals Scanner** after the game is running.
 3. Queue into a match.
-4. During the loading screen, click the scanner.
-5. Use your hotkey to scan/capture.
+4. Use your scan hotkey during the loading screen or scoreboard.
+5. Review one-trick detection, rank data, Elo estimates, win prediction, player patterns, and counter recommendations.
 
-If you have a second monitor, I strongly recommend moving the scanner to your second monitor. This makes it easier to click the program and trigger your hotkey during the loading screen without interrupting the game.
+You no longer need to tab out, click the scanner window, or manually select the scanner before using your hotkey.
 
-Recommended second-monitor workflow:
+For the cleanest experience, keep Marvel Rivals on your main monitor and keep Marvel Rivals Scanner open on a second monitor.
 
-1. Keep Marvel Rivals on your main monitor.
-2. Move Marvel Rivals Scanner to your second monitor.
-3. When the loading screen appears, click the scanner window.
-4. Press your scan hotkey.
+---
 
-This gives the most reliable capture experience.
+## New in Version 2.2.8
+
+### Win Prediction Added
+
+Marvel Rivals Scanner can now provide a win prediction based on scanned player data, team patterns, hero usage, rank information, and available scouting signals.
+
+Win prediction is an estimate only. It should be treated as a scouting tool, not a guaranteed result.
+
+---
+
+### Current Rank, Peak Rank & Elo Added
+
+Player scans can now show:
+
+- Current rank
+- Peak rank
+- Estimated Elo where available
+- Rank-based player strength indicators
+
+This makes it easier to judge lobby strength, identify dangerous players, and understand whether someone is playing below, above, or around their usual level.
+
+---
+
+### Scoreboard Screenshot Support
+
+The scanner now supports screenshots from:
+
+- Loading screens
+- Scoreboards
+
+This means you can scan during the loading screen or later from the scoreboard if needed.
+
+---
+
+### Capture Workflow Improvements
+
+Capture is now faster and smoother.
+
+You no longer need to:
+
+- Tab out of Marvel Rivals
+- Click the scanner window
+- Manually select the scanner before scanning
+
+The scan hotkey can now be used directly while playing.
 
 ---
 
 ## What It Does
 
 - Scan players by IGN/UID for hero-pool insights and one-trick detection.
-- Analyse captured loading-screen screenshots to identify player patterns.
-- Flag likely one-tricks, duo/stack patterns, and repeated hero preferences.
+- Analyse loading-screen screenshots.
+- Analyse scoreboard screenshots.
+- Detect likely one-tricks.
+- Show current rank.
+- Show peak rank.
+- Estimate Elo where available.
+- Provide win prediction.
+- Analyse hero pools and repeated hero preferences.
+- Flag duo/stack probability.
+- Estimate player patterns.
 - Provide counter-pick and matchup recommendations.
-- Support streamer-friendly usage with a simple capture workflow.
 - Help estimate private-profile behaviour where enough public or contextual data is available.
+- Support streamer-friendly usage with a simple capture workflow.
 
 ---
 
@@ -93,10 +155,16 @@ This gives the most reliable capture experience.
 
 - Unlimited scans
 - One-trick detection
-- Counter recommendations
+- Hero-pool analysis
+- Current rank display
+- Peak rank display
+- Estimated Elo where available
+- Win prediction
+- Counter-pick recommendations
 - Player-pattern scouting
-- Private-profile estimation where enough public/contextual data is available
 - Duo/stack probability detection
+- Private-profile estimation where enough public/contextual data is available
+- Loading-screen and scoreboard screenshot scanning
 
 ---
 
@@ -114,7 +182,7 @@ After subscribing, unlock Pro using the email used at checkout or by pasting the
 
 ## Important Notes
 
-Marvel Rivals Scanner provides external scouting, analytics, and prediction tools only.
+Marvel Rivals Scanner is an external scouting and analytics tool only.
 
 The software:
 
@@ -126,7 +194,9 @@ The software:
 
 All analysis is based on **screenshots**, public information, user-provided data, and statistical pattern detection.
 
-Private-profile predictions are estimates only. They are not guaranteed and may be inaccurate.
+Win prediction, Elo estimates, private-profile estimation, duo/stack probability, and player-pattern detection are predictions only. They are not guaranteed and may be inaccurate.
+
+Use the scanner as a scouting assistant, not as a guaranteed match outcome tool.
 
 ---
 
@@ -135,12 +205,12 @@ Private-profile predictions are estimates only. They are not guaranteed and may 
 If capture does not work:
 
 1. Make sure Marvel Rivals is open before launching the scanner.
-2. Fully close the scanner from the hidden icons menu.
+2. Fully close the scanner from the Windows hidden icons menu.
 3. Reopen the scanner after Marvel Rivals is already running.
-4. Move the scanner to a second monitor if available.
-5. During the loading screen, click the scanner window before pressing your hotkey.
+4. Try scanning again using your hotkey.
+5. If available, keep the scanner open on a second monitor for easier reviewing.
 
-Most capture issues happen when the scanner is opened before the game or when the scanner window is not active during the loading-screen capture.
+Most capture issues happen when the scanner is opened before the game or when the game capture state is not detected correctly.
 
 ---
 
