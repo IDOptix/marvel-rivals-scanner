@@ -172,7 +172,7 @@ The scan hotkey can now be used directly while playing.
 
 Click the **FREE** chip in the top-right of the app, then choose **Upgrade**.
 
-<img width="1471" height="914" alt="image" src="https://github.com/user-attachments/assets/64b49e77-12e5-46a9-b230-847704d9e986" />
+<img width="2560" height="672" alt="image" src="https://github.com/user-attachments/assets/adffe197-63b6-4030-89b8-a94919308caf" />
 <img width="1793" height="393" alt="image" src="https://github.com/user-attachments/assets/d40744cf-6260-4011-93bb-bd2ec97122f5" />
 <img width="2111" height="306" alt="image" src="https://github.com/user-attachments/assets/354c146e-955a-4ab0-b01f-f7c376cfce59" />
 
