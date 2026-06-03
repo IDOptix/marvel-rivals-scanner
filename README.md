@@ -172,9 +172,10 @@ The scan hotkey can now be used directly while playing.
 
 Click the **FREE** chip in the top-right of the app, then choose **Upgrade**.
 
-<img width="2560" height="672" alt="image" src="https://github.com/user-attachments/assets/adffe197-63b6-4030-89b8-a94919308caf" />
-<img width="1793" height="393" alt="image" src="https://github.com/user-attachments/assets/d40744cf-6260-4011-93bb-bd2ec97122f5" />
-<img width="2111" height="306" alt="image" src="https://github.com/user-attachments/assets/354c146e-955a-4ab0-b01f-f7c376cfce59" />
+<img width="1851" height="632" alt="main" src="https://github.com/user-attachments/assets/6ce58e91-122e-4fac-9a81-a33bfeaa111c" />
+<img width="2179" height="504" alt="bans" src="https://github.com/user-attachments/assets/05e01f0e-a3bc-4518-a76b-13dbd18fd544" />
+<img width="2179" height="182" alt="win predict" src="https://github.com/user-attachments/assets/3c50456c-b20f-46eb-b81a-464c4df6cbe5" />
+
 
 After subscribing, unlock Pro using the email used at checkout or by pasting the licence key from your confirmation page.
 
