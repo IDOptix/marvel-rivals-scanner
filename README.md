@@ -24,7 +24,7 @@ You no longer need to tab out of Marvel Rivals or manually click the scanner bef
 
 Download:
 
-`Marvel Rivals Scanner Setup 2.2.8.exe`
+`Marvel Rivals Scanner Setup 2.2.9.exe`
 
 Then run the installer and follow the prompts.
 
