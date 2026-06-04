@@ -8,7 +8,9 @@ Marvel Rivals Scanner helps you scan players, analyse loading-screen and scorebo
 
 ## Latest Version
 
-**Marvel Rivals Scanner — Update 2.2.8**
+**Marvel Rivals Scanner — Update 2.2.9**
+
+This update further improves loading-screen capture accuracy, making player detection more reliable when scanning from the Marvel Rivals loading screen.
 
 This update adds win prediction, current rank, peak rank, estimated Elo, scoreboard screenshot support, and a smoother capture workflow.
 
